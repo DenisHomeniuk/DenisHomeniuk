@@ -23,3 +23,28 @@
 </div>
 
 ###
+
+<h3 align="left">👩‍💻  Про мене</h3>
+
+###
+
+<p align="left">
+Я початківець Python-розробник. Мій шлях в IT почався з навчання в Європейському університеті м. Київ. Наразі я проходжу додаткові курси для вдосконалення своїх навичок.<br><br>
+- 📚 Завершив кілька курсів з програмування.<br>
+- ⚡ Продовжую активно розвиватися у сфері Python-розробки.
+</p>
+
+###
+
+<h3 align="left">🛠 Технології:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
