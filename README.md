@@ -67,6 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://i.postimg.cc/XJLXQb4H/game-qa-logo.png" width="50" alt="Game QA logo"/>
 </div>
 
 ###
