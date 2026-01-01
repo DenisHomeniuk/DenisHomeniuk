@@ -29,7 +29,7 @@
 <p align="left">
 Прагну спробувати себе в Game QA. Бакалавр з Комп’ютерних наук (122), навчаюся в магістратурі (м. Київ). <br><br>
 📚 Завершив кілька курсів
-🔗 <a href="https://github.com/DenisHomenuk/Certificates" style="text-decoration: underline; color: inherit; cursor: pointer;">Сертифікати курсів</a>
+🔗 <a href="https://github.com/DenisHomeniuk/Certificates" style="text-decoration: underline; color: inherit; cursor: pointer;">Сертифікати курсів</a>
 
 
 
